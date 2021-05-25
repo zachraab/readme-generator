@@ -47,6 +47,11 @@ const questions = [
     message: "What are the test instructions?",
   },
   {
+    name: "links",
+    type: "input",
+    message: "What is URL of your project?",
+  },
+  {
     name: "license",
     type: "list",
     message: "Please select a license for your application:",
