@@ -42,6 +42,3 @@ This is a command-line application that allows the user to generate a profession
 - [NodeJS](https://nodejs.org/en/docs/)
 - [Inquirer NPM](https://www.npmjs.com/package/inquirer#methods)
 
-## Walkthrough Demonstration
-
-[Link to Video]()
